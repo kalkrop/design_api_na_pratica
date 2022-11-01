@@ -27,18 +27,30 @@ class MyHTTPHandler(BaseHTTPRequestHandler):
                 # An error code has been sent, just exit
                 return
             
-            # Manipulando os tipos de comandos o HTTP aceita
-            if self.command == 'GET' and self.path == '/':
-                self.send_response(HTTPStatus.OK)
-                self.send_header("Content-type", "text/html; charset=utf-8")
-                self.end_headers()
+            # Manipulando os tipos de comandos que o HTTP aceita
+            if self.command == 'GET':
+                if self.path == '/':
+                    self.send_response(HTTPStatus.OK)
+                    self.send_header("Content-type", "text/html; charset=utf-8")
+                    self.end_headers()
 
-                body = '<h1>O Servidor está ON!</h1>'
-                self.wfile.write(body.encode('utf-8', 'replace'))
-            elif self.command == 'GET' and self.path == '/blog':
-                self.send_response(HTTPStatus.PERMANENT_REDIRECT)
-                self.send_header('Location', 'https://www.orbitmedia.com/blog/')
-                self.end_headers()
+                    body = """
+                    <h1>O Servidor está ON!</h1>
+                    <button onclick='javascript:fetch("http://127.0.0.1:8000/api/order/1").then(response => response.json()).then(order => window.alert(order.product))'>"COMPRE!"</button>
+                    """
+                    self.wfile.write(body.encode('utf-8', 'replace'))
+
+                elif self.command == 'GET' and self.path == '/blog':
+                    self.send_response(HTTPStatus.PERMANENT_REDIRECT)
+                    self.send_header('Location', 'https://www.orbitmedia.com/blog/')
+                    self.end_headers()
+                elif self.path == '/api/order/1':
+                    self.send_response(HTTPStatus.OK)
+                    self.send_header("Content-type", "text/json; charset=utf-8")
+                    self.end_headers()
+
+                    body = '{"id": 1, "product": "Café"}'
+                    self.wfile.write(body.encode('utf-8', 'replace'))
             # INFINITOS  IF ELSE COM COMANDOS CUSTOMIZADOS          
             else:
                 self.send_error(
