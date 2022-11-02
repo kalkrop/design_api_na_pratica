@@ -16,9 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from level0.core.views import home
+from level0.core.views import barista
 
 urlpatterns = [
-    path('', home),
-    path('admin/', admin.site.urls),
+    path('PlaceOrder', barista),
 ]

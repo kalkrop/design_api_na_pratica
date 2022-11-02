@@ -1,0 +1,6 @@
+Wed, 02 Nov 2022 18:48:45 - coopy - INFO - [CORE] No snapshot files..
+Wed, 02 Nov 2022 18:48:45 - coopy - DEBUG - Taking snapshot on: coffeeshop/snapshot_000000000000002.dat
+Wed, 02 Nov 2022 18:48:45 - coopy - INFO - [CORE] coopy init....
+Wed, 02 Nov 2022 18:48:45 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Wed, 02 Nov 2022 18:48:45 - coopy - DEBUG - [RESTORE] Files found: None
+Wed, 02 Nov 2022 18:48:45 - coopy - INFO - [CORE] spent 0:00:00.017963microseconds
