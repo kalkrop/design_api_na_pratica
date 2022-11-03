@@ -4,3 +4,335 @@ Wed, 02 Nov 2022 18:48:45 - coopy - INFO - [CORE] coopy init....
 Wed, 02 Nov 2022 18:48:45 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
 Wed, 02 Nov 2022 18:48:45 - coopy - DEBUG - [RESTORE] Files found: None
 Wed, 02 Nov 2022 18:48:45 - coopy - INFO - [CORE] spent 0:00:00.017963microseconds
+Wed, 02 Nov 2022 20:38:57 - coopy - INFO - [CORE] coopy init....
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] place_order
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] place_order
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] place_order
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] place_order
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] place_order
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] place_order
+Wed, 02 Nov 2022 20:38:57 - coopy - DEBUG - [RESTORE] Actions re-execution
+Wed, 02 Nov 2022 20:38:57 - coopy - INFO - [CORE] spent 0:00:00.113714microseconds
+Thu, 03 Nov 2022 06:35:48 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:48 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:35:48 - coopy - INFO - [CORE] spent 0:00:00.137995microseconds
+Thu, 03 Nov 2022 06:35:53 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:53 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:35:53 - coopy - INFO - [CORE] spent 0:00:00.037000microseconds
+Thu, 03 Nov 2022 06:35:57 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:35:57 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:35:57 - coopy - INFO - [CORE] spent 0:00:00.035002microseconds
+Thu, 03 Nov 2022 06:36:06 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:06 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:36:06 - coopy - INFO - [CORE] spent 0:00:00.029000microseconds
+Thu, 03 Nov 2022 06:36:15 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:15 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:36:15 - coopy - INFO - [CORE] spent 0:00:00.032998microseconds
+Thu, 03 Nov 2022 06:36:21 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:21 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:36:21 - coopy - INFO - [CORE] spent 0:00:00.022996microseconds
+Thu, 03 Nov 2022 06:36:26 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:26 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:36:26 - coopy - INFO - [CORE] spent 0:00:00.041001microseconds
+Thu, 03 Nov 2022 06:36:33 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:33 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:36:33 - coopy - INFO - [CORE] spent 0:00:00.021999microseconds
+Thu, 03 Nov 2022 06:36:39 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:39 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:36:39 - coopy - INFO - [CORE] spent 0:00:00.033006microseconds
+Thu, 03 Nov 2022 06:36:56 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:36:56 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:36:56 - coopy - INFO - [CORE] spent 0:00:00.019995microseconds
+Thu, 03 Nov 2022 06:37:04 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:04 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:37:04 - coopy - INFO - [CORE] spent 0:00:00.026996microseconds
+Thu, 03 Nov 2022 06:37:09 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:09 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:37:09 - coopy - INFO - [CORE] spent 0:00:00.037000microseconds
+Thu, 03 Nov 2022 06:37:14 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:37:14 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:37:14 - coopy - INFO - [CORE] spent 0:00:00.037000microseconds
+Thu, 03 Nov 2022 06:39:34 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:34 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:39:34 - coopy - INFO - [CORE] spent 0:00:00.021998microseconds
+Thu, 03 Nov 2022 06:39:47 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:47 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:39:47 - coopy - INFO - [CORE] spent 0:00:00.024000microseconds
+Thu, 03 Nov 2022 06:39:58 - coopy - INFO - [CORE] coopy init....
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - Recovering snapshot from: coffeeshop/snapshot_000000000000002.dat
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] Files found: ['coffeeshop/transaction_000000000000003.log']
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] Opening  coffeeshop/transaction_000000000000003.log
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] place_order
+Thu, 03 Nov 2022 06:39:58 - coopy - DEBUG - [RESTORE] Actions re-execution
+Thu, 03 Nov 2022 06:39:58 - coopy - INFO - [CORE] spent 0:00:00.022998microseconds
